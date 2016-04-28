@@ -1,6 +1,6 @@
 
 A complete LinkedIn scrapper<br>
-## Requirements
+ <h3>Requirements:</h3>
 > Requires selenium package of python  (pip install selenium)
 <br><br>
 > Run using PhantomJs browser  (A headless webkit browser) <br><br>
@@ -10,7 +10,7 @@ A complete LinkedIn scrapper<br>
 
 ###################################
 
-##Instructions:
+<h3>Instructions:</h3>
 
 1) download the zip file.
 
@@ -31,7 +31,7 @@ A complete LinkedIn scrapper<br>
 
 ##################################
 
-Benefits:
+<h3>Benefits:</h3>
 
 Scrape users:
 
