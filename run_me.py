@@ -86,9 +86,9 @@ class Linkedin_Scraper():
 def main():
     l = Linkedin_Scraper()
     email=str(input('Enter Your Linkedin Email : '))
-    password=getpass.getpass('Enter Your LinkedIN Password : ')
-    #email=str('zenithzimmer@gmail.com')
-    #password='malAcabador2116261'
+    password=getpass.getpass('Enter Your Linkedin Password(Carefully) : ')
+    #email=str('myemail@gmail.com')
+    #password='my_password'
     l.get_authenticated(email=email,password=password)
     l.create_json()
     l.close_phantom()
