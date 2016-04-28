@@ -1,0 +1,117 @@
+{
+    "A Profile Summary ": {
+        "Summary": "Summary not specified by user."
+    },
+    "Basic Information": {
+        "Connection": "500+",
+        "Education": " INSEAD",
+        "Locality": "Bengaluru Area, India",
+        "Name": "Amit Nagpal",
+        "Previous": " BARWA UshaComm Deloitte Consulting Edit experience",
+        "Title": "Operations at CrowdANALYTIX"
+    },
+    "Education Detail": {
+        "A Total Number of Education": 3,
+        "Education_1": {
+            "Course Completed ": " - 2005",
+            "Course Name": "Master of Business Administration (M.B.A.)",
+            "Course Started": "2005",
+            "Institute Name ": "INSEAD"
+        },
+        "Education_2": {
+            "Course Completed ": " - 1999",
+            "Course Name": "Bachelor of Engineering, Production",
+            "Course Started": "1995",
+            "Institute Name ": "Fr. CRCE"
+        },
+        "Education_3": {
+            "Course Completed ": " - 1993",
+            "Course Name": "",
+            "Course Started": "1983",
+            "Institute Name ": "G.D.S.M"
+        }
+    },
+    "Experience": {
+        "A Total Number of Experience": 7,
+        "Experience_1": {
+            "Area": "Qatar",
+            "Company Name": "CrowdANALYTIX",
+            "Description": "Description Not Specified.",
+            "Duration": "(1 year 5 months)",
+            "From": "December 2014",
+            "To": "Present",
+            "a.Job_title": "Operations"
+        },
+        "Experience_2": {
+            "Area": "Qatar",
+            "Company Name": "BARWA",
+            "Description": "Description Not Specified.",
+            "Duration": "(1 year 10 months)",
+            "From": "March 2013",
+            "To": "December 2014",
+            "a.Job_title": "Business Planning"
+        },
+        "Experience_3": {
+            "Area": "Area or Locality, Not Specified.",
+            "Company Name": "UshaComm",
+            "Description": "If you are stuck at a point, Amit is the person to fall back on. He is soft spoken, meticulous and to the task kind of guy and an excellent colleague to work with who is always ready to help you and a bundle of knowledge. He has an uncanny knack for...View",
+            "Duration": "(3 years 2 months)",
+            "From": "January 2010",
+            "To": "February 2013",
+            "a.Job_title": "Strategy & M&A"
+        },
+        "Experience_4": {
+            "Area": "Area or Locality, Not Specified.",
+            "Company Name": "Deloitte Consulting",
+            "Description": "Description Not Specified.",
+            "Duration": "(3 years)",
+            "From": "2007",
+            "To": "2010",
+            "a.Job_title": "Manager"
+        },
+        "Experience_5": {
+            "Area": "Area or Locality, Not Specified.",
+            "Company Name": "Arthur D. Little",
+            "Description": "Description Not Specified.",
+            "Duration": "(2 years)",
+            "From": "August 2005",
+            "To": "2007",
+            "a.Job_title": "Consultant"
+        },
+        "Experience_6": {
+            "Area": "Area or Locality, Not Specified.",
+            "Company Name": "Mahindra British Telecom",
+            "Description": "Description Not Specified.",
+            "Duration": "(5 years 1 month)",
+            "From": "July 1999",
+            "To": "July 2004",
+            "a.Job_title": "Solutions Designer"
+        },
+        "Experience_7": {
+            "Area": "Area or Locality, Not Specified.",
+            "Company Name": "Tech Mahindra Ltd (Formerly MBT)",
+            "Description": "Description Not Specified.",
+            "Duration": "(5 years)",
+            "From": "1999",
+            "To": "2004",
+            "a.Job_title": "Solutions Designer"
+        }
+    },
+    "Skills": {
+        "Business Analysis": "13, Endorsements",
+        "Business Development": "3, Endorsements",
+        "Business Modeling": "10, Endorsements",
+        "Business Planning": "8, Endorsements",
+        "Business Strategy": "20, Endorsements",
+        "Business Transformation": "36, Endorsements",
+        "CRM": "3, Endorsements",
+        "Consulting": "22, Endorsements",
+        "IT Strategy": "2, Endorsements",
+        "Management": "21, Endorsements",
+        "Management Consulting": "25, Endorsements",
+        "Mergers & Acquisitions": "10, Endorsements",
+        "Pre-sales": "5, Endorsements",
+        "Strategy": "35, Endorsements",
+        "Telecommunications": "8, Endorsements"
+    }
+}

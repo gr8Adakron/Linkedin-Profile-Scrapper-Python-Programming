@@ -1,0 +1,166 @@
+{
+    "A Profile Summary ": {
+        "Summary": "Summary not specified by user."
+    },
+    "Basic Information": {
+        "Connection": "500+",
+        "Current": " Alepo",
+        "Education": " Pillais College of Engineering (Mumbai University)",
+        "Locality": "Mumbai Area, India",
+        "Name": "Mohammed Arshad Ansari",
+        "Previous": " Fitrangi.com TOOVIA AIKTC Edit experience",
+        "Title": "Software Developer and Architect "
+    },
+    "Education Detail": {
+        "A Total Number of Education": 2,
+        "Education_1": {
+            "Course Completed ": " - 2016",
+            "Course Name": "Master of Engineering (MEng), Information Technology (AI and Robotics)",
+            "Course Started": "2013",
+            "Institute Name ": "Pillais College of Engineering (Mumbai University)"
+        },
+        "Education_2": {
+            "Course Completed ": " - 2008",
+            "Course Name": "B.E., Information Technology, First Class",
+            "Course Started": "2005",
+            "Institute Name ": "Bharati Vidyapeeth"
+        }
+    },
+    "Experience": {
+        "A Total Number of Experience": 9,
+        "Experience_1": {
+            "Area": "Navi Mumbai ",
+            "Company Name": "Alepo",
+            "Description": "Description Not Specified.",
+            "Duration": "(3 months)",
+            "From": "February 2016",
+            "To": "Present",
+            "a.Job_title": "Lead Engineer R&D"
+        },
+        "Experience_2": {
+            "Area": "Navi Mumbai",
+            "Company Name": "Fitrangi.com",
+            "Description": "Roles includes completed development and management (including server and db administration) for the portal www.fitrangi.com.\n\nThe technologies used include python, flask and mongodb, celery, crossbar.io. Using Aws EC2 instance and Aws Cloudfront for CDN.",
+            "Duration": "(1 year)",
+            "From": "March 2015",
+            "To": "February 2016",
+            "a.Job_title": "Co Founder"
+        },
+        "Experience_3": {
+            "Area": "Navi Mumbai",
+            "Company Name": "TOOVIA",
+            "Description": "Wrote a product scrapping service to scrape data from different e-commerce websites and published them on our own. Worked on decentralizing the monolithic web app by taking out small services such as emailing, product import, etc to run separately and to publish data on the main web by introducing middleware (rabbitmq). Built a dashboard to manage the said services. Selenium based automatic checkout service to buy the products from various ecommerce site at a click of a button (POC).\n\nTechnologies used were python, java, mongodb, rabbitmq and selenium.\n\nOther roles included interviewing the new hires, managing a team of up to 10 junior developers by assigning tasks after breaking them down and training the new comers to land while running.",
+            "Duration": "(11 months)",
+            "From": "May 2014",
+            "To": "March 2015",
+            "a.Job_title": "Software Architect"
+        },
+        "Experience_4": {
+            "Area": "Panvel, Maharashtra, India",
+            "Company Name": "AIKTC",
+            "Description": "Taught subjects Analysis of Algorithm and Object Oriented Analysis and Design.",
+            "Duration": "(8 months)",
+            "From": "August 2013",
+            "To": "March 2014",
+            "a.Job_title": "Assistant Professor, TPO"
+        },
+        "Experience_5": {
+            "Area": "Amsterdam Area, Netherlands",
+            "Company Name": "TomTom",
+            "Description": "Worked on building rest services to serve gwt clients from different backend services such as delivery management, order management and product management systems. Building GWT widgets for UI.",
+            "Duration": "(10 months)",
+            "From": "July 2012",
+            "To": "April 2013",
+            "a.Job_title": "Software Engineer"
+        },
+        "Experience_6": {
+            "Area": "Amsterdam Area, Netherlands",
+            "Company Name": "Hyves",
+            "Description": "Worked on the main portal of hyves, in the ticket team fixing bugs related to UI and backend php. POC implementation of rabbitmq for messaging inorder to migrate from mysql based queuing system. Fixing bugs on Adserver, implemented in python.",
+            "Duration": "(10 months)",
+            "From": "September 2011",
+            "To": "June 2012",
+            "a.Job_title": "Developer"
+        },
+        "Experience_7": {
+            "Area": "Mumbai Area, India",
+            "Company Name": "Finicity",
+            "Description": "Worked on Java based backend for the flagship product Mvelopes 4. Created rest based webservices for use by mobile clients. Wrote a POC for service orchestration to import scrapped banking data from one system to its transformed refined form in the mvelopes application database. Another POC was for find the best solution to share quarts jobs across servers and share session between lcds servers, which was done using terrocotta servers provided by quartz itself.",
+            "Duration": "(1 year 4 months)",
+            "From": "April 2010",
+            "To": "July 2011",
+            "a.Job_title": "Software Engineer"
+        },
+        "Experience_8": {
+            "Area": "Mysuru Area, India",
+            "Company Name": "Infosys Technologies Ltd",
+            "Description": "Underwent training on various standard technologies as part of the infosys training curriculum. Left after the training was complete.",
+            "Duration": "(7 months)",
+            "From": "March 2009",
+            "To": "September 2009",
+            "a.Job_title": "Software Engineer Trainee"
+        },
+        "Experience_9": {
+            "Area": "Mumbai Area, India",
+            "Company Name": "Coconut Softwares Pvt. Ltd.",
+            "Description": "Used jsp for web application development for various small to medium sized business portals. Implemented spring framework to replace the existing complete jsp based development (2001 web development method inspired by php) in one of the new projects in order to upgrade the technology stack of the java team.",
+            "Duration": "(4 months)",
+            "From": "September 2008",
+            "To": "December 2008",
+            "a.Job_title": "Software Engineer"
+        }
+    },
+    "Skills": {
+        "Algorithms": "5, Endorsements",
+        "Amazon Web Services...": "2, Endorsements",
+        "Ant": "1, Endorsements",
+        "CoffeeScript": "0, Endorsements",
+        "Core Java": "5, Endorsements",
+        "Databases": "3, Endorsements",
+        "Design Patterns": "10, Endorsements",
+        "ESB": "0, Endorsements",
+        "Eclipse": "16, Endorsements",
+        "Flask": "0, Endorsements",
+        "Git": "8, Endorsements",
+        "HTML": "4, Endorsements",
+        "Hibernate": "9, Endorsements",
+        "JBoss Application Server": "1, Endorsements",
+        "JDBC": "4, Endorsements",
+        "JSP": "8, Endorsements",
+        "JUnit": "8, Endorsements",
+        "Java": "36, Endorsements",
+        "JavaScript": "7, Endorsements",
+        "Jython": "0, Endorsements",
+        "Linux": "4, Endorsements",
+        "Machine Learning": "1, Endorsements",
+        "Maven": "5, Endorsements",
+        "Middleware": "0, Endorsements",
+        "MongoDB": "3, Endorsements",
+        "MySQL": "23, Endorsements",
+        "NLP": "0, Endorsements",
+        "Node.js": "0, Endorsements",
+        "OOP": "9, Endorsements",
+        "Object Oriented Design": "3, Endorsements",
+        "Open Source": "3, Endorsements",
+        "PHP": "9, Endorsements",
+        "Pillais College of Engineering (Mumbai University)": "See 25+\u00a0\u00a0See less, Endorsements",
+        "Programming": "15, Endorsements",
+        "Python": "11, Endorsements",
+        "REST": "28, Endorsements",
+        "Redis": "0, Endorsements",
+        "SOA": "8, Endorsements",
+        "SQL": "18, Endorsements",
+        "SQLAlchemy": "0, Endorsements",
+        "Sails": "0, Endorsements",
+        "ServiceMix": "0, Endorsements",
+        "Servlets": "2, Endorsements",
+        "Software Development": "2, Endorsements",
+        "Spring": "8, Endorsements",
+        "Spring Framework": "4, Endorsements",
+        "Tomcat": "24, Endorsements",
+        "Web Development": "37, Endorsements",
+        "Web Services": "6, Endorsements",
+        "XML": "0, Endorsements",
+        "iBatis": "0, Endorsements"
+    }
+}

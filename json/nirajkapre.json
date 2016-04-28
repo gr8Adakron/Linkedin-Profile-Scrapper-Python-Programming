@@ -1,0 +1,107 @@
+{
+    "A Profile Summary ": {
+        "Summary": "Summary not specified by user."
+    },
+    "Basic Information": {
+        "Connection": "500+",
+        "Current": " Don Bosco Institute of Technology (D.B.I.T)",
+        "Education": " G.H Raisoni College of Information and Technology",
+        "Locality": "Mumbai, Maharashtra, India",
+        "Name": "Niraj Kapre",
+        "Previous": " Datamatics Staffing Services Pvt Ltd Jerry Varghese Global Executive Search Kawade & co. Edit experience",
+        "Title": "Training & Placement Officer at Don Bosco Institute Of Technology"
+    },
+    "Education Detail": {
+        "A Total Number of Education": 3,
+        "Education_1": {
+            "Course Completed ": " - 2012",
+            "Course Name": "MBA, Finance & HR",
+            "Course Started": "2010",
+            "Institute Name ": "G.H Raisoni College of Information and Technology"
+        },
+        "Education_2": {
+            "Course Completed ": " - 2008",
+            "Course Name": "B.E, Production Engineering",
+            "Course Started": "2005",
+            "Institute Name ": "Jawaharlal Nehru Engineering College"
+        },
+        "Education_3": {
+            "Course Completed ": " - 2005",
+            "Course Name": "Diploma, Mechanical Engineering",
+            "Course Started": "2002",
+            "Institute Name ": "Shree Datta Meghe Polytechnic"
+        }
+    },
+    "Experience": {
+        "A Total Number of Experience": 5,
+        "Experience_1": {
+            "Area": "Mumbai Area, India",
+            "Company Name": "Don Bosco Institute of Technology (D.B.I.T)",
+            "Description": "Training and placement of entire Engineering college ",
+            "Duration": "(2 years 1 month)",
+            "From": "April 2014",
+            "To": "Present",
+            "a.Job_title": "Training & Placement Officer"
+        },
+        "Experience_2": {
+            "Area": "Mumbai",
+            "Company Name": "Datamatics Staffing Services Pvt Ltd",
+            "Description": "Overseas Recruitment's",
+            "Duration": "(1 year 1 month)",
+            "From": "April 2013",
+            "To": "April 2014",
+            "a.Job_title": "Associate Consultant"
+        },
+        "Experience_3": {
+            "Area": "Mumbai",
+            "Company Name": "Jerry Varghese Global Executive Search",
+            "Description": "Overseas Recruitment's",
+            "Duration": "(7 months)",
+            "From": "October 2012",
+            "To": "April 2013",
+            "a.Job_title": "Recruitment Executive"
+        },
+        "Experience_4": {
+            "Area": "Nagpur",
+            "Company Name": "Kawade & co.",
+            "Description": "Description Not Specified.",
+            "Duration": "(7 months)",
+            "From": "April 2012",
+            "To": "October 2012",
+            "a.Job_title": "HR- Manager"
+        },
+        "Experience_5": {
+            "Area": "Nagpur",
+            "Company Name": "Pix Transmissions Ltd.",
+            "Description": "Description Not Specified.",
+            "Duration": "(1 year)",
+            "From": "2009",
+            "To": "2010",
+            "a.Job_title": "Production Engineer"
+        }
+    },
+    "Skills": {
+        "Benefits Negotiation": "24, Endorsements",
+        "Employee Engagement": "11, Endorsements",
+        "Employee Relations": "5, Endorsements",
+        "Executive Search": "16, Endorsements",
+        "Graduate Recruitment": "3, Endorsements",
+        "HR Policies": "5, Endorsements",
+        "Human Resources": "4, Endorsements",
+        "Interviews": "0, Endorsements",
+        "MIS": "0, Endorsements",
+        "Management": "1, Endorsements",
+        "Performance Management": "4, Endorsements",
+        "Recruiting": "59, Endorsements",
+        "Recruitment Executive-...": "1, Endorsements",
+        "Recruitments": "19, Endorsements",
+        "Screening": "32, Endorsements",
+        "Sourcing": "12, Endorsements",
+        "Talent Acquisition": "22, Endorsements",
+        "Talent Management": "7, Endorsements",
+        "Team Management": "21, Endorsements",
+        "Technical Recruiting": "33, Endorsements",
+        "Temporary Placement": "5, Endorsements",
+        "Training": "2, Endorsements"
+    }
+}

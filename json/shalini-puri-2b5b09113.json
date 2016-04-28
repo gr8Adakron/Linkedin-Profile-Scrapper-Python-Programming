@@ -1,0 +1,105 @@
+{
+    "A Profile Summary ": {
+        "Summary": "\u2022 Formulated experience in Selenium Test automation framework and debugging tools.\n\u2022 Knowledge of Ranorex Automation tool used in Desktop, Web,Mobile and Cross Browser Platforms.\t\n\u2022 Prepared Acceptance tests, Integration scripts for Regression, Progression and Execute Test Runs with variants for Cross browser testing.\n\u2022 Proficient in Object Oriented Methodologies Design and Data Structure Algorithm.\n\u2022 Knowledge of SDLC, STLC and familiarity of working in the Agile environment.\n\u2022 Administered excellent problem solving and analytical skills that focused on Usability Testing.\n\u2022 Counseled, Mentored and trained testers within the QA team to get better performance.\n\u2022 Contributed in recommending test approaches to optimize the delivery schedules.\n\u2022 Reviewed modules using manual, automated test cases as a team player as well as an individual.\n\u2022 Good Interpersonal, relationship and negotiation skills required for cross functional teams.\n\u2022 Understand web development process and manage multiple task in a fast paced environment."
+    },
+    "Basic Information": {
+        "Connection": "500+",
+        "Current": " Ericsson twoPlugs",
+        "Education": " Ramrao Adik Institute of Technology",
+        "Locality": "Mississauga, Ontario, Canada",
+        "Name": "Shalini Puri",
+        "Previous": " AIKTC MGMCET PIIT Edit experience",
+        "Title": "Integration and Verification Developer at Ericsson"
+    },
+    "Education Detail": {
+        "A Total Number of Education": 3,
+        "Education_1": {
+            "Course Completed ": " - 2009",
+            "Course Name": "Master's degree, Computer Engineeering, A+",
+            "Course Started": "2006",
+            "Institute Name ": "Ramrao Adik Institute of Technology"
+        },
+        "Education_2": {
+            "Course Completed ": " - 2000",
+            "Course Name": "Bachelor's degree, Electronics & Telecommunication, A+",
+            "Course Started": "1996",
+            "Institute Name ": "Maharshi Karve Stree Shikshan Sanstha's Cummins College Of Engineering For Women"
+        },
+        "Education_3": {
+            "Course Completed ": " - 1996",
+            "Course Name": "Diploma, Industrial Electronics Technology/Technician, A+",
+            "Course Started": "1991",
+            "Institute Name ": "Father Agnel Polytechnic, Vashi"
+        }
+    },
+    "Experience": {
+        "A Total Number of Experience": 5,
+        "Experience_1": {
+            "Area": "Canada",
+            "Company Name": "Ericsson",
+            "Description": "Description Not Specified.",
+            "Duration": "(2 months)",
+            "From": "March 2016",
+            "To": "Present",
+            "a.Job_title": "Integration and Verification Developer"
+        },
+        "Experience_2": {
+            "Area": "Mississauga, Ontario",
+            "Company Name": "twoPlugs",
+            "Description": "\u2022 Requirement Gathering, Analyzing, designing and developing automated testing strategies, frameworks and scripts using Selenium WebDriver, TestNG, and Java.\n\u2022 Designing and Testing using Ranorex Studio for Desktop,Web and Mobile Native Applications.\n\u2022 Identifying and developing automation test suite from commonly run test case that improved Test Coverage and Test Accuracy.\n\u2022 Contributing to the Identification, management and closure of the system defects in order to accept automation criteria. \n\u2022 Recommending procedures for quality improvements by performing work-flow analysis. \n\u2022 Testing, identifying and bug logging and reporting results back to project teams using JIRA.\n\u2022 Creating user guides and testing documents for the team.\n",
+            "Duration": "(5 months)",
+            "From": "December 2015",
+            "To": "Present",
+            "a.Job_title": "Test Developer"
+        },
+        "Experience_3": {
+            "Area": "India",
+            "Company Name": "AIKTC",
+            "Description": "\u2022\tPerformed test cases into automated scripts using Java and Selenium Webdriver.\n\u2022\tParticipated in requirement gathering, analysis, design walkthroughs, as well as project meetings to kick start the project.\n\u2022\tWorked on TestNG, Paramaterization, Tables, Forms, Excel, and POM in Selenium.\n\u2022\tGathered and enhanced business/Product requirements and technical specifications to write and execute test plans, test cases in different test environment.\n\u2022\tExecuted SQL queries and store procedures for retrieving information from database as back-end testing.\n\u2022\tDesigned and implemented test cases addressing areas including database impacts, software scenarios, negative testing, security and usability testing using Java.\n\u2022\tDocumented software defects using JIRA bug tracking tool. Actively followed up on resolution and closure of the defects\n\u2022\tInteract with various teams (technical and non-technical) and work on various projects.\n",
+            "Duration": "(4 years 2 months)",
+            "From": "August 2011",
+            "To": "September 2015",
+            "a.Job_title": "Software Testing Engineer"
+        },
+        "Experience_4": {
+            "Area": "India",
+            "Company Name": "MGMCET",
+            "Description": "\u2022\tInteracted with Business and Development team to understand requirements, analysis, and design of the applications and work with them on tight deadlines. \n\u2022\tCreated detailed Test Scenarios and cases according to the Business/Functional requirements. \n\u2022\tPerformed Functional, Integration, and Cross Browser and Regression tests. \n\u2022\tLogged defects with proper priorities and severity using JIRA and report to the lead and developers for continuous improvement and gain satisfaction of the product owner \n\u2022\tWorked with the customer support team to identify issues raised by the customers during beta testing. \n\u2022\tFacilitated and led presentations and weekly test statistics to management. \n\u2022\tInvolved in UAT testing by creating specific test plan and test cases according to users\u2019 perspective. \n",
+            "Duration": "(1 year 11 months)",
+            "From": "October 2009",
+            "To": "August 2011",
+            "a.Job_title": "Test Engineer"
+        },
+        "Experience_5": {
+            "Area": "Mumbai Area, India",
+            "Company Name": "PIIT",
+            "Description": "\u2022\tTaught subjects such as Software Engineering, Software Testing, C, C++, Java, HTML, MySQL, PHP and conducted lab sessions.\n\u2022\tMentored and guided under graduate students in a wide range of software and web site related projects\n",
+            "Duration": "(5 years 6 months)",
+            "From": "January 2001",
+            "To": "June 2006",
+            "a.Job_title": "Trainer"
+        }
+    },
+    "Skills": {
+        "C": "21, Endorsements",
+        "C++": "21, Endorsements",
+        "CSS": "8, Endorsements",
+        "Core Java": "22, Endorsements",
+        "HP QTP": "4, Endorsements",
+        "HTML5": "5, Endorsements",
+        "JIRA": "4, Endorsements",
+        "JavaScript": "24, Endorsements",
+        "MySQL": "20, Endorsements",
+        "REST": "1, Endorsements",
+        "Ranorex": "1, Endorsements",
+        "Regression Testing": "3, Endorsements",
+        "SOAP": "1, Endorsements",
+        "SOAPUI": "2, Endorsements",
+        "Selenium Testing": "4, Endorsements",
+        "Test Automation": "7, Endorsements",
+        "Test Cases": "6, Endorsements",
+        "Test Planning": "5, Endorsements",
+        "TestNG": "6, Endorsements",
+        "WSDL": "1, Endorsements"
+    }
+}
