@@ -1,12 +1,12 @@
 
-A complete LinkedIn scrapper
-
+A complete LinkedIn scrapper<br>
+# Requirements
 > Requires selenium package of python(pip install selenium)
-
-> Run using PhantomJs browser(A headless webkit browser)
-  1) Downlaod phantomJs from http://phantomjs.org/download.html
-  2) Extract folder and and paste in this directory.
-  3) And specify correctly the path of in run_me.py line num 16 (Crucial Step)
+<br>
+> Run using PhantomJs browser(A headless webkit browser)<br>
+  1) Downlaod <b><i>phantomJs</i></b> from http://phantomjs.org/download.html<br>
+  2) Extract folder and and paste in this directory.</br>
+  3) And specify correctly the path of in run_me.py <b>line num 18 (Crucial Step)</b></br>
 
 ###################################
 
